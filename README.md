@@ -115,7 +115,7 @@ Solution:
 - Excel / SQL (Data Cleaning & Transformation)  
 
 
- 📌 Skills Demonstrated
+  Skills Demonstrated
 - Business Problem Identification  
 - Data Analysis & Interpretation  
 - Data Visualization (Power BI)  
